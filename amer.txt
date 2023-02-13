@@ -4,6 +4,10 @@ Amer
 
 Amer
 
+<<<<<<< HEAD
  This added after the branch 1 created
  In bracnh 1
 
+=======
+Branch 2 Add
+>>>>>>> branch2
